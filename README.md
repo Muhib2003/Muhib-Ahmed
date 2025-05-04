@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **NAND2TETRIS**
 
-- 💬 Ask me about **digital logic design,designing basic gates, combinational logic . etcic gates using hdl**
+- 💬 Ask me about **digital logic design,designing basic gates using hdl, combinational logic . sequential logic.**
 
 - 📫 How to reach me **ahmedmuhib017@gmail.com**
 
