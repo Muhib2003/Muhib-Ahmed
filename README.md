@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **NAND2TETRIS**
 
-- 💬 Ask me about **digital logic design,designing basic gates using hdl, combinational logic . sequential logic.**
+- 💬 Skills I Learned **Designing , debugging ,building basic gates using hdl,combinational logic,Arithmatic Logic Unit , sequential logic.Simulating Digital circuits using Logisim **
 
 - 📫 How to reach me **ahmedmuhib017@gmail.com**
 
