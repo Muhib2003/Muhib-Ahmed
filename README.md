@@ -1,24 +1,31 @@
-# Muhib-Ahmed
-<h1 align="center">Hi 👋, I'm Muhib Ahmed</h1>
-<h3 align="center">A passionate VLSI enthusiast from Bangladesh.</h3>
+# 👋 Hi, I’m Muhib!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhib2003&label=Profile%20views&color=0e75b6&style=flat" alt="muhib2003" /> </p>
+## 🧑‍🎓 About Me
+- 💻 **Student** passionate about computer architecture & digital logic design
+- 🎓 Currently exploring the world of low-level computing through the [Nand2Tetris](https://github.com/Muhib2003/Nand2Tetris) course
+- 📚 Avid book reader and lifelong learner
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhib2003" alt="muhib2003" /></a> </p>
+## 🔧 Top Skills
+- Digital Logic Design (HDL, circuits, simulation)
+- Computer Architecture (CPU, memory, ALU, and beyond)
+- Problem solving and analytical thinking
 
-- 🌱 I’m currently learning **NAND2TETRIS**
+## 🚀 Favourite Project
+[![Nand2Tetris](https://img.shields.io/badge/-Nand2Tetris-blue?style=flat-square&logo=github)](https://github.com/Muhib2003/Nand2Tetris)  
+Building a computer from the ground up – from logic gates to a working OS!
 
-- 💬 Skills I Learned: **Designing , debugging ,building basic gates,combinational logic,Arithmatic Logic Unit , sequential logic using hdl.Simulating Digital circuits using Logisim **
+## 📦 Featured Repositories
+- [Nand2Tetris](https://github.com/Muhib2003/Nand2Tetris): My journey building a computer from scratch!
+- (Add more projects here as you grow!)
 
-- 📫  Reach me: **ahmedmuhib017@gmail.com**
+## 📖 Hobbies
+- Reading books (fiction, non-fiction, tech, and more)
+- Exploring the intersection of hardware and software
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 📫 Let’s Connect!
+- GitHub: [Muhib2003](https://github.com/Muhib2003)
+- (Optional: Add email, LinkedIn, or other socials)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhib2003&show_icons=true&locale=en&layout=compact" alt="muhib2003" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhib2003&show_icons=true&locale=en" alt="muhib2003" /></p>
+> “The best way to predict the future is to invent it.” – Alan Kay
