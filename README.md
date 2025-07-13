@@ -16,7 +16,7 @@ Building a computer from the ground up – from logic gates to a working OS!
 
 ## 📦 Featured Repositories
 - [Nand2Tetris](https://github.com/Muhib2003/Nand2Tetris): My journey building a computer from scratch!
-- (Add more projects here as you grow!)
+  
 
 ## 📖 Hobbies
 - Reading books (fiction, non-fiction, tech, and more)
@@ -24,8 +24,7 @@ Building a computer from the ground up – from logic gates to a working OS!
 
 ## 📫 Let’s Connect!
 - GitHub: [Muhib2003](https://github.com/Muhib2003)
-- (Optional: Add email, LinkedIn, or other socials)
+- Email: (https://ahmedmuhib017@gmail.com)
 
----
 
 > “The best way to predict the future is to invent it.” – Alan Kay
