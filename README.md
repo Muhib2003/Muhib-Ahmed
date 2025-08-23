@@ -6,8 +6,9 @@
 - 📚 Avid book reader and lifelong learner
 
 ## 🔧 Top Skills
+- Programming Language:C , Java
 - Digital Logic Design (HDL, circuits, simulation)
-- +Hardware Modeling using Verilog,and  Modelsim simulation.
+- Hardware Modeling using Verilog and  Modelsim simulation.
 - Computer Architecture (CPU, memory, ALU, and beyond)
 - Problem solving and analytical thinking
 
