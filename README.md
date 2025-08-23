@@ -7,6 +7,7 @@
 
 ## 🔧 Top Skills
 - Digital Logic Design (HDL, circuits, simulation)
+- +Hardware Modeling using Verilog,and  Modelsim simulation.
 - Computer Architecture (CPU, memory, ALU, and beyond)
 - Problem solving and analytical thinking
 
