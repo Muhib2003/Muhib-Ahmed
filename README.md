@@ -18,6 +18,7 @@ Building a computer from the ground up – from logic gates to a working OS!
 
 ## 📦 Featured Repositories
 - [Nand2Tetris](https://github.com/Muhib2003/Nand2Tetris): My journey building a computer from scratch!
+- [Hardware_Modeling_using_Verilog](https://github.com/Muhib2003/Hardware_modeling_using_Verilog): My journey through Verilog and Modelsim Simulation!
   
 
 ## 📖 Hobbies
