@@ -5,7 +5,7 @@
 ### 🎯 Computer Architecture Enthusiast | Lifelong Learner | Digital Logic Design Enthusiast
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/Muhib2003)
-[![LinkedIn](www.linkedin.com/in/muhib-ahmed-0b0488381)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/muhib-ahmed-0b0488381)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail)](mailto:ahmedmuhib017@gmail.com)
 
 </div>
@@ -14,9 +14,9 @@
 
 ## 🧑‍🎓 About Me
 
-I'm a passionate student diving deep into **computer architecture** and **digital logic design**. My journey involves understanding how computers work from the ground up—from transistors and logic gates to full-fledged operating systems.
+I'm a passionate student diving deep into **computer architecture** and **digital logic design**. My journey involves understanding how computers work from the ground up—from transistors and logic gates to full-fledged systems.
 
-- 💻 **Focus Areas**:Digital Logic Design, hardware design, and Verilog Implementation
+- 💻 **Focus Areas**: Digital Logic Design, hardware design, and Verilog Implementation
 - 📚 **Interests**: Hardware design, Computer Architecture, and technical literature
 
 ---
@@ -76,7 +76,7 @@ I'm always open to discussing computer architecture, hardware design, or collabo
 | Platform | Link |
 |----------|------|
 | **GitHub** | [Muhib2003](https://github.com/Muhib2003) |
-| **LinkedIn** | [muhib-ahmed](https://linkedin.com/in/muhib-ahmed) |
+| **LinkedIn** | [muhib-ahmed-0b0488381](https://www.linkedin.com/in/muhib-ahmed-0b0488381) |
 | **Email** | [ahmedmuhib017@gmail.com](mailto:ahmedmuhib017@gmail.com) |
 
 </div>
