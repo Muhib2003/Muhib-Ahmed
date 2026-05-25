@@ -5,7 +5,7 @@
 ### 🎯 Computer Architecture Enthusiast | Lifelong Learner | Digital Logic Design Enthusiast
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/Muhib2003)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/muhib-ahmed)
+[![LinkedIn](www.linkedin.com/in/muhib-ahmed-0b0488381)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail)](mailto:ahmedmuhib017@gmail.com)
 
 </div>
