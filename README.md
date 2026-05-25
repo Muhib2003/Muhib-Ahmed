@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🎯 Computer Architecture Enthusiast | Hardware Design Engineer | Lifelong Learner
+### 🎯 Computer Architecture Enthusiast | Lifelong Learner | Digital Logic Design Enthusiast
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/Muhib2003)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/muhib-ahmed)
@@ -16,10 +16,8 @@
 
 I'm a passionate student diving deep into **computer architecture** and **digital logic design**. My journey involves understanding how computers work from the ground up—from transistors and logic gates to full-fledged operating systems.
 
-- 💻 **Focus Areas**: Low-level computing, hardware design, and system architecture
-- 🎓 **Current Learning**: [Nand2Tetris](https://github.com/Muhib2003/Nand2Tetris) - Building a complete computer from scratch
-- 📚 **Interests**: Hardware design, computer organization, embedded systems, and technical literature
-- 🌟 **Philosophy**: "The best way to predict the future is to invent it." – Alan Kay
+- 💻 **Focus Areas**:Digital Logic Design, hardware design, and Verilog Implementation
+- 📚 **Interests**: Hardware design, Computer Architecture, and technical literature
 
 ---
 
